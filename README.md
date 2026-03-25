@@ -1,112 +1,103 @@
 # 👋 Hi, I'm Ajay Sainath
 
-I’m an AI Developer focused on building intelligent developer tools and real-time AI systems. My work sits at the intersection of software engineering and applied AI, where I design systems that help developers understand, analyze, and interact with code more effectively.
+💻 AI Developer | 🧠 Building Intelligent Developer Tools | 🚀 Exploring Real-Time AI Systems  
 
+---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science (AI & ML)  
-- 📍 Hyderabad, India  
-- 💡 Interested in AI systems, developer tools, and real-time applications  
-- 🧠 Focused on building practical, usable AI products  
+- 🔭 I build AI-powered developer tools and backend systems  
+- 🧠 Focused on Code Analysis, AI Agents, and Generative AI  
+- 🛰️ Interned at ISRO (NRSC) working on geospatial systems  
+- ⚡ I enjoy turning complex systems into simple, usable products  
 
+---
 
-## 💼 Experience
+## 🛠️ Tech Stack
 
-### 🛰️ Project Intern – NRSC, ISRO (June 2025 – Aug 2025)
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-- Built interactive mapping modules using Leaflet with multi-layer support  
-- Integrated CAS authentication and secure session management  
-- Developed backend APIs for satellite tiles and metadata, improving performance by 30%  
-- Collaborated with scientists to align metadata with workflows  
-- Improved UI/UX for better usability in scientific systems  
+---
 
+### 🤖 AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-blue?style=for-the-badge)
+![Speech AI](https://img.shields.io/badge/Speech%20Processing-purple?style=for-the-badge)
 
-## 🛠️ Projects
+---
 
-### 🔹 AI Codebase Knowledge Graph  
-- AST-based Python code analysis  
+### ⚙️ Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-orange?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🧩 Concepts
+`AI Agents` `Code Analysis` `Knowledge Graphs` `Backend Development` `API Design`
+
+---
+
+## 📊 GitHub Stats
+
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaysainath&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ajaysainath&theme=tokyonight)
+
+---
+
+## 📈 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysainath&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI Codebase Knowledge Graph
+- AST-based analysis of Python codebases  
 - Converts code into an interactive knowledge graph  
-- Uses NetworkX + Streamlit dashboard  
 - Helps visualize architecture and dependencies  
 
 🔗 https://github.com/ajaysainath/ai-codebase-knowledge-graph  
 
+---
 
-### 🔹 AI Code Review Assistant  
-- AST-based static code analysis  
-- Detects code issues and suggests improvements  
+### 🔹 AI Code Review Assistant
+- Static code analysis using AST  
+- Generates suggestions and quality reports  
 - FastAPI backend + Streamlit UI  
-- Generates automated PDF reports  
 
 🔗 https://github.com/ajaysainath/ai-code-review-assistant  
 
+---
 
-### 🔹 Real-Time Voice AI Clinical Appointment Agent  
-- Speech-to-text using Whisper  
-- Intent detection + scheduling logic  
-- Real-time system using WebSockets  
-- Text-to-speech responses  
+### 🔹 Voice AI Appointment Agent
+- Real-time speech-based system  
+- Whisper + WebSockets + FastAPI  
+- Handles booking, rescheduling, cancellation  
 
 🔗 https://github.com/ajaysainath/voice-ai-agent  
 
+---
 
-### 🔹 Stable Diffusion Image Generator  
-- Built using PyTorch and Stable Diffusion  
-- Converts text prompts into images  
-- Interactive UI using Gradio  
+## 🌐 Connect With Me
 
+- 🌍 Portfolio: https://ajaysainath.github.io/as-portfolio/  
+- 💻 GitHub: https://github.com/ajaysainath  
+- 📧 Email: ajaysainath1809@gmail.com  
 
-## 🧠 Skills
+---
 
-### Programming
-- Python  
-- JavaScript  
+## ⚡ Fun Fact
 
-### AI / ML
-- Generative AI  
-- NLP  
-- Speech Processing  
-- Stable Diffusion  
-
-### Frameworks & Tools
-- FastAPI  
-- PyTorch  
-- Streamlit  
-- Gradio  
-- Git, GitHub  
-
-### Concepts
-- AI Agents  
-- Code Analysis  
-- Knowledge Graphs  
-- API Development  
-- Backend Systems  
-
-
-## 📜 Certifications
-
-- NICES Data Explorer – NRSC ISRO  
-- Artificial Intelligence – LearnNex  
-- Machine Learning Fundamentals  
-- Deep Learning Basics  
-
-## 🎓 Education
-
-**B.Tech – Computer Science (AI & ML)**  
-MLR Institute of Technology and Management  
-CGPA: 7.03  
-
-
-## 🌐 Links
-
-- Portfolio: https://ajaysainath.github.io/as-portfolio/  
-- GitHub: https://github.com/ajaysainath  
-- Email: ajaysainath1809@gmail.com  
-
-## ⚡ Current Focus
-
-- AI-powered developer tools  
-- Code understanding systems  
-- Real-time AI applications  
-- Scalable backend architectures  
+I like building systems that *understand code*, not just run it.
